@@ -1,0 +1,10 @@
+{
+  "com.transsion.phonemaster": "Unsafe",
+  "com.transsion.phonemanager": "Unsafe",
+  "com.transsion.batterylab": "Unsafe",
+  "com.transsion.microintelligence": "Advanced",
+  "com.transsion.tranengine": "Advanced",
+  "com.transsion.smartpanel": "Advanced",
+  "android.auto_generated_rro__": "Unsafe",
+  "android.auto_generated_vendor_": "Unsafe"
+}
